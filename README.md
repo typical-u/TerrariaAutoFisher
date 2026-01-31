@@ -39,3 +39,5 @@ You may need to tweak the area to scan a couple of times to get consistent resul
 Windows may give you a warning when running the program; this is because I didn't pay Windows to certify my exe. It is unsigned
 It is 100% safe, you can trust me. Or, take a look through my code and build it yourself (it is built using Net 6.0). For some reason, 6.0 worked more consistently than 10.0
 ALSO, I am not responsible if you get in any trouble using this script; it should be fine, but some servers may not allow it.
+
+Code made by: typical-u (https://github.com/typical-u)
