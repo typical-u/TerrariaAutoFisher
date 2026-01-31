@@ -27,14 +27,15 @@ I made it to crate farm, so this code will be based around that
 4. Place your Crate Potions at slot 4
 5. Place your Chum Buckets at slot 5
 
-1. Make sure your slot selected before starting program is slot 1
-2. Click "Select Scan Area" - Click and drag the box so that the bottom is ever so slightly at/above water level
+1. Make sure the slot selected before starting the program is slot 1
+2. Click "Select Scan Area" - Click and drag the box so that the bottom is ever so slightly at/above the water level
 3. Pick a good area for your mouse to rest and click
 4. Start!
 
+READ ME HERE:
+You may need to tweak the area to scan a couple of times to get consistent results
 
-DISCLAIMER:
-You may need to tweak the area to scan a couple times to get consistent results
-
-# ANOTHER DISCLAIMER
-ALSO, I am not responsible if you get in any trouble using this script, it should be fine but some servers may not allow it.
+# DISCLAIMER
+Windows may give you a warning when running the program; this is because I didn't pay Windows to certify my exe. It is unsigned
+It is 100% safe, you can trust me. Or, take a look through my code and build it yourself (it is built using Net 6.0). For some reason, 6.0 worked more consistently than 10.0
+ALSO, I am not responsible if you get in any trouble using this script; it should be fine, but some servers may not allow it.
