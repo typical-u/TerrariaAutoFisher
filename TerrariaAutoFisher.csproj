@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <ApplicationIcon />
+    <StartupObject>TerrariaAutoFisher.Program</StartupObject>
+    <AssemblyName>TerrariaAutoFisher</AssemblyName>
+    <RootNamespace>TerrariaAutoFisher</RootNamespace>
+  </PropertyGroup>
+
+</Project>
