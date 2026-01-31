@@ -1,7 +1,7 @@
 # Terraria Auto Fisher
 
 Hello, this is an automated fishing tool for Terraria using pixel detection.
-This program should work on any resolution, as you choose the are to scan.
+This program should work on any resolution, as you choose the area to scan.
 It has very basic auto-potion management, live preview, and hotkey support.
 I made it to crate farm, so this code will be based around that
 
